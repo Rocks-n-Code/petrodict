@@ -1,2 +1,2 @@
 # pertrodict
-Lithology prediction
+Lithology prediction project from AAPG ACE hackathon.
